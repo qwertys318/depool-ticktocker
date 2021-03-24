@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@tonclient/core@^1.6.3":
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/@tonclient/core/-/core-1.6.3.tgz#96f2104b3729acdb6d3bd7b6f43db9420c872494"
-  integrity sha512-/ACqO9/YquHGyKU+xOSl3BMQJLcM0wDv6FMBDaS1V2Gvz98ZOplxoYEiUrwjvpS7miuAcaHxa5Eh+3U4COy70w==
+"@tonclient/core@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@tonclient/core/-/core-1.7.0.tgz#9e76e43166517e588d5183c9a9f2152a254e288f"
+  integrity sha512-bxK4NzwhqtB5eTlUiuO1syloDT6xkWaYAmezAcSUKWRojGzUDZm5dIZr33CbgBPkcLyUZT590guaAGCuMrIh8w==
 
-"@tonclient/lib-node@^1.6.3":
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/@tonclient/lib-node/-/lib-node-1.6.3.tgz#1f70ed9af5fad4d42c92810ef64d2aa7906472da"
-  integrity sha512-ibYU4sIyaXuyC1Kami2PgYNtEX34rxJ02ild3kx2tcw27NG/oLyPJH04OMZbtx7jFCaI89/sgVRGWGW+BAILXA==
+"@tonclient/lib-node@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@tonclient/lib-node/-/lib-node-1.7.0.tgz#73d3ddeb16cf497b25b6c44479be2822b18222e2"
+  integrity sha512-Ibt1jJpt6DVL3hMS4CNmxj4wBedSd5X/2wbthvbLmkte0dvl8nXUxSWMcUjGWzkrQXG6vIfxpYcIpQ9CF2AggQ==

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@tonclient/core": "^1.6.3",
-    "@tonclient/lib-node": "^1.6.3"
+    "@tonclient/core": "^1.7.0",
+    "@tonclient/lib-node": "^1.7.0"
   }
 }
