@@ -18,7 +18,6 @@ const ELECTIONS_START_BYPASS = 60;
 
 const LAST_TICKTOCK_ELECTIONS_FILENAME = 'last-ticktock-elections-id.data';
 
-
 TonClient.useBinaryLibrary(libNode);
 
 const client = new TonClient({
